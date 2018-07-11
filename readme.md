@@ -1,20 +1,25 @@
-## Galvanize Web App
+# **CryptoTracker**
+CryptoTracker is an app that allows you to quickly view the recent price history of top cryptocurrencies. It automatically populates the page with the top 10 coins by market share or you can search for a specific coin by its symbol. Over 1000 coins are supported in the search function 
 
-For this project, you will build a light application that reads data, has end-to-end testing, and integrates with an API. The topic is up to you, so pick a project that speaks to your interests.
+## **Getting Started**
 
-### Instructions
+As a user:
+- Click on the get started now button or the Tracker tab in the top right corner
+- The top 10 coins by market share will populate immediately along with the current price, day change, and month change
+- To search a specific coin, enter its symbol into the search bar and hit submit
 
-* You should have a brochure page that has information about what your app does and who it's for.
-* Your app should make a GET request to an external API
-* Your app should also pull from a second source of data. This can be another API, another endpoint on the same API, or from a local `.json` file
-* You need to write some data transformation that combines the two objects in a meaningful way
-* The resulting data should be dynamically added to the page
-* You should allow a user to change the API end point. For example, get data about a specific movie, weather for a specific zip code, etc
-* Your app should have end-to-end tests
-* Deploy your app
 
----
+### **Deployed Site**
+https://project-two-8ec8d.firebaseapp.com/
 
-### Submission
+### **Github Repo**
+https://github.com/keithdecker3/project-two
 
-Add a link to your code [here](https://github.com/keithdecker3/galvanize-frontend-app), and your deployed site [here](https://project-two-8ec8d.firebaseapp.com/tracker.html).
+### **Built With**
+JavaScript
+HTML
+CSS
+Materialize
+
+### **Author**
+Keith Decker
