@@ -1,0 +1,5 @@
+{
+  "baseURL": "https://localhost:3000",
+  "integrationFolder": "tests",
+  "videoRecording": false
+}

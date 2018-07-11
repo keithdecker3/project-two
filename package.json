@@ -1,0 +1,25 @@
+{
+  "name": "galvanize-frontend-app",
+  "version": "1.0.0",
+  "description": "For this project, you will build a light application that reads data, has end-to-end testing, and integrates with an API. The topic is up to you, so pick a project that speaks to your interests.",
+  "main": "app.js",
+  "dependencies": {
+    "cypress": "^2.1.0",
+    "materialize-css": "^1.0.0-beta"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithdecker3/galvanize-frontend-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keithdecker3/galvanize-frontend-app/issues"
+  },
+  "homepage": "https://github.com/keithdecker3/galvanize-frontend-app#readme"
+}
